@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "986672854515",
+    "firebase_url": "https://booking-a4052.firebaseio.com",
+    "project_id": "booking-a4052",
+    "storage_bucket": "booking-a4052.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986672854515:android:2bf9b3935350dad41ace86",
+        "android_client_info": {
+          "package_name": "com.example.bus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986672854515-emkekbf2118o05oogajvkcg8oih7k79t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bus",
+            "certificate_hash": "bfa1338a0c011ae7c1ecbf3e26a8734171f5d932"
+          }
+        },
+        {
+          "client_id": "986672854515-qvklthtvt2p611nrmpa8kdn68151gjmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhPJ0VsbMpdnEnu2cTND-qioy4HF4QGY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986672854515-qvklthtvt2p611nrmpa8kdn68151gjmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
